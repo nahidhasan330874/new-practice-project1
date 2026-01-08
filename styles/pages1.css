@@ -206,3 +206,53 @@
      cursor: pointer;
      margin: 0px 60px 0px;
 }
+/* creat the footer section */
+.footer-container{
+              background-color: black;
+              width: 1535px;
+              height: 550px;
+}
+.form-container{
+   color: #FFFFFF;
+   display: flex;
+   justify-content: center;
+   gap: 130px;
+   padding: 130px 0px 130px;
+}
+.form-section{
+    width: 485px;
+    height: 320px;
+}
+.form-section h2{
+       font-size: 45px;
+       font-weight: 700;
+       line-height: 53px;
+       margin-bottom: 16px;
+}
+.form-paragraph{
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  margin-bottom: 24px;
+}
+.form-section a img{
+   margin-right: 20px;
+}
+.input-container{
+       width: 325px;
+       height: 204px;
+}
+.input-container h3 {
+     font-size: 25px;
+     font-weight: 600;
+     line-height: 29px;
+     margin-bottom: 20px;
+}
+.input-container input {
+         width: 305px;
+         height: 40px;
+         box-sizing: border-box;
+         border: 1px solid rgba(255, 255, 255, 1);
+         border-radius: 8px;
+         padding:21px ;
+}

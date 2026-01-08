@@ -274,3 +274,15 @@
          border-radius: 8px;
          padding:21px ;
 }
+.btn1{
+   width: 160px;
+    height: 60px;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 23px;
+    border: none;
+    background-color:#FFFFFF;
+    color: rgba(241, 91, 34, 1); ;
+     border-radius: 10px;
+     cursor: pointer;
+}
